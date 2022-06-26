@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @DarkKungTHCh
+- 👀 I’m interested in game
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me Discord 4zr_K死#9696
+
+<!---
+DarkKungTHCh/DarkKungTHCh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
